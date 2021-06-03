@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edinburgh 10. February 1647. Act for vplifting of ane moneths maintenance, for disbanding of these regiments horse and foot, that are not to be kept up for the service of the countrie.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05197</idno><idno type="EEBO-CITATION">52614927</idno>
+  <idno type="VID">176091</idno>
+  <idno type="EEBO-PROQUEST">2240875163</idno>
+  
+            <idno type="STC">Wing S1109A</idno>
+            <idno type="STC">ESTC R187400</idno>
+            <idno type="OCLC">52614927</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176091)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edinburgh 10. February 1647. Act for vplifting of ane moneths maintenance, for disbanding of these regiments horse and foot, that are not to be kept up for the service of the countrie.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Evan Tyler :</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: Alex. Gibsone Cler. Regist.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Army --  Supplies and stores --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176091:1"/>
+            <opener>
+               <dateline>EDINBURGH <date>10. February 1647.</date>
+               </dateline>
+            </opener>
+            <head>ACT FOR VPLIFTING OF ane Moneths maintenance, for disbanding of these Regiments Horse and Foot, that are not to be kept up for the service of the Countrie.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Estates of Parliament now conveened in this sixth Session of the first triennal Parliament, ta<g ref="char:EOLhyphen"/>king to their consideration the present necessitie of money for disbanding of the Regiments of Horse and Foot that are not to be keeped up, and for payment of the assignements for the service at <hi>Philiphauch,</hi> and providing Magazines of Victuall for the forces to be keeped up: And finding no readier way for getting money for this effect, than to ordain a ful moneths maintenance to be pre<g ref="char:EOLhyphen"/>sently payed by the Shires and Burghes of the kingdome; There<g ref="char:EOLhyphen"/>fore the saids Estates, do hereby enact and ordaine, that a full monthes maintenance be uplifted, and payed by the whole Shires and Burghs of the Kingdome, ilk Shire and Burgh according to their own proportion and quantity, except and the lands and Burghs possest by the enemy, or burnt, or wasted, or which are exeimed from payment of maintenance by warrand of Parliament: And ordaines the saids whole Shires, and Burghs of the King<g ref="char:EOLhyphen"/>dome to make payment, ilk one of them for their own parts and proportions, of ane full monthes maintenance, according to the quantities and proportions, for ilk Shire and Burgh, to</p>
+            <p>Collector appointed by the Estates for receiving there<g ref="char:EOLhyphen"/>of, as followes, <hi>viz.</hi> These Shires and Burghs be-South the wa<g ref="char:EOLhyphen"/>ter of <hi>Dee,</hi> betwixt and the twentieth day of February instant, and these Shires and Burghs be-North <hi>Dee,</hi> at the rates and dyets to be appointed by the General Act of maintenance, and as shall be pre<g ref="char:EOLhyphen"/>scribed by the same Act. And it is hereby declared, in respect the summes presently imposed by this Act upon the Shires in part of payment to some Shires of their maintenance, is only for the present occasion, while the Act of Maintenance be fully esta<g ref="char:EOLhyphen"/>blished: That therefore the same summes now imposed, shall bee payed out of the Lands which are not possest by the Enemie, nor have beene burnt nor wasted by the Enemie, nor our own forces, or the plague, so that the Heritours thereof are disabled there-through, to make payment of their severall proportions imposed upon the saids Lands, providing the same do not exceed the pro<g ref="char:EOLhyphen"/>portion due by any Heritour, by the Act of maintenance at <hi>Saint-Andrews.</hi> And also the Estates Ordaines the Commissioners of the Shires and Burghs, for this Session of Parliament, to acquaint the
+<pb n="2" facs="tcp:176091:2"/>Commitees of War of the severall Shires, and Magistrates of Burghs <hi>respectivè,</hi> for providing and paying of their proportionall parts of the foresaid Moneths maintenance, betwixt and the day and times <hi>respectivè</hi> above specified, appointed for that effect. And the saids Estates Declares, that who shall failʒie in payment there<g ref="char:EOLhyphen"/>of, betwixt and the times foresaids (except such as before ex<g ref="char:EOLhyphen"/>cepted) shall be quartered upon, while the payment of their own proportions: And ordaines the foresaids Moneths Mainte<g ref="char:EOLhyphen"/>nance to be sent by the Committees of War, of the several Shires and Magistrates of Burghs, to their Commissioners of Parliament <hi>respectivè,</hi> to be delivered by them to the Collector foresaid, to be appointed by the Estates for that Effect. And to the effect the saids Moneths Maintenance may be the more readily and timously payed, The Estates gives heereby warrand to the Committees of War of the severall Shires, to appoint such numbers of Horse and Foot of their own Shires, to quarter upon the Deficients in Burgh or Land of their Shires, for payment of their proportionall parts of the saids Moneths Maintenance, as the Commitee of War shall think fit, ay and while they make payment of their proportionall parts of the foresaid maintenance. And because these summes which are restand unpayed of the assignements to the Regiments at <hi>Philip-haugh</hi> must be presently payed to these Regiments, be<g ref="char:EOLhyphen"/>fore they will disband; The Estates do therefore ordain the parti<g ref="char:EOLhyphen"/>cular summes and fines <hi>respectivè</hi> aftermentioned, to be presently advanced and payed by thir Burghs, Shires, and persons follow<g ref="char:EOLhyphen"/>ing, to the Regiments underwritten, <hi>viz.</hi> The sum of 31766. l. 13. s. 4. d. To the Lord General, the Lieutenant General, and Major General <hi>Midletoun,</hi> their three Regiments, to be payed as followes, to wit, By the Shirefdom of <hi>Berwick,</hi> 3555. l. By the Burgh of <hi>Lawder,</hi> 45. l. By the Shirefdom of <hi>Roxburgh,</hi> 5778. l. By the Burgh of <hi>Jedburgh,</hi> 126. l. By the Shirefdom of <hi>Selkirk,</hi> 1278. l. By the Burgh of <hi>Selkirk,</hi> 126. l. By the Shirefdom of <hi>Pebles,</hi> 1638. l. By the Burgh of <hi>Pebles,</hi> 108. l. By the Shirefdome of <hi>Lanerk,</hi> 5382 l. By the Burgh of <hi>Lanerk,</hi> 162 l. By the Burgh of <hi>Glasgow,</hi> 1530 l. By the Burgh of <hi>Rutherglen,</hi> 45. l. By the Shirefdom of <hi>Fyfe</hi> 6642. l. By the Burgh of S. <hi>Andrews,</hi> 780. l. By the Burgh of <hi>Dysert,</hi> 270. l. By the Burgh of <hi>Kirkcaldie,</hi> 600. l. By the Burgh of <hi>Cowper,</hi> 216. l. By the Burgh of <hi>Anstruther</hi> easter, 180. l. By the Burgh of <hi>Pettinweyme,</hi> 120. l. By the Burgh of <hi>Dumfermline,</hi> 162. l. By the Burgh of <hi>Bruntiland,</hi> 206. l. By the Burgh of <hi>Carrail,</hi> 216. l. By the Burgh of <hi>Kinghorn,</hi> 108. l. By the Burgh of <hi>Anstruther</hi> we<g ref="char:EOLhyphen"/>ster, 54. l. By the Burgh of <hi>Innerkeething,</hi> 90. l. By the Burgh of <hi>Kilrynnie,</hi> 27. l. By the Shirefdom of <hi>Linlithgow,</hi> 1746. l. By the Burgh of <hi>Linlithgow,</hi> 324. l. By the Burgh of <hi>Queensferrie,</hi> 108. l. By the Shirefdom of <hi>Edinburgh</hi> principall, 134. l. 13. s. 4. d.</p>
+            <p>
+               <hi>Item,</hi> To the Earl of <hi>Dalhousies</hi> regiment the sum of 7001. l. 13. s. 4. d. whereof by the Shirefdom of <hi>Hadingtoun,</hi> 3384. By the Burgh of <hi>Hadingtoun,</hi> 324. l. By the Burgh of <hi>Dumbar,</hi> 180. l. By the
+<pb n="3" facs="tcp:176091:2"/>Burgh of <hi>Northberwick,</hi> 36. l. And by the Shirefdom of <hi>Edinburgh</hi> prin<g ref="char:EOLhyphen"/>cipall, 3077. l. 13. s. 4. d.</p>
+            <p>
+               <hi>Item,</hi> To Colonel <hi>Frasers</hi> Regiment 10050. marks, whereof 7000. marks by the Laird of <hi>Blindlie,</hi> in full satisfaction of his fine of 10000. marks; And the other 3050. marks by the Shirefdom of <hi>Drumfreis,</hi> out of the first and readiest of the 4446. l. payable by that Shire.</p>
+            <p>
+               <hi>Item,</hi> To the Lord <hi>Kircudbrights</hi> Regiment, 12963. l. whereof the sum of 10000. l. to be payed by the Lord <hi>Herries,</hi> for rescinding of his forefaulter, and in satisfaction of his contravention of 10000. marks, for his good behaviour, for the which the L. <hi>Kirkcudbright</hi> is caution, and 2963. l. by the Shirefdom of <hi>Wigton,</hi> and Stuartry of <hi>Kirkcudbright.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> To the Lord <hi>Montgomeries</hi> Regiment, 992. l. 6. s. 8. d. by the said Shirefdom of <hi>Drumfreis.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> To the Lord <hi>Cowpers</hi> Regiment the sum of 4266. l. 13. s. 4. d. whereof 4000. l. by the Shirefdom of <hi>Perth,</hi> 108. l. By the Burgh of <hi>Culros,</hi> 148. l. By the Shirefdom of <hi>Kinros,</hi> And 14. l. 13. s. 4. by the Shirefdom of <hi>Edinburgh,</hi> which with 10000. marks assigned to that Regiment, for the Earle of <hi>Nithisdales</hi> forefaulter, compleats their moneths assignement for <hi>Philip-hauch.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> To fourtie Troupers of Colonel <hi>Barkleyes</hi> Troup, for a mo<g ref="char:EOLhyphen"/>neths pay, at 14. s. <hi>per diem,</hi> 840. l. and 48. l. for a moneths pay to a Lieutenant, and 36. l. for a Moneths pay to a Cornet, to be payed by the Shirefdom of <hi>Edinburgh,</hi> which compleats the moneth main<g ref="char:EOLhyphen"/>tenance for that Shire, except 33. l. 13. s. 4. d. which yet rests thereof.</p>
+            <p>
+               <hi>Item,</hi> To the Lord <hi>Balcarras</hi> 15000 merks, in compleat payment of his former precept of 10000. l. granted to him at <hi>Perth,</hi> and in satisfaction to him and his Regiment, of the summe assigned to them by the Act at <hi>Glasgow:</hi> And ordaines this summe to be payed out of the first and readiest of the superplus of the forsaid moneths mainte<g ref="char:EOLhyphen"/>nance, now ordained to be advanced, and not assigned or otherwise destinate to be payed in maner before rehearsed.</p>
+            <p>Which particular summes <hi>respectivè</hi> above mentioned, the Estates ordaines to be presently advanced and payed by the present Commis<g ref="char:EOLhyphen"/>sioners for Shires and Burghs, and persons <hi>respectivè</hi> abovenamed, to the forsaids Regiments and others <hi>respectivè</hi> above designed: And ordaines the saids Commissioners for Shires and Burghs, to be repayed of the foresaids summes, hereby ordaine to be advanced by them as said is, by their saids Shires and Burghs, with the anualrent thereof, from the time of their advancement while the repayment: And or<g ref="char:EOLhyphen"/>daines the like execution to be direct at their instance for their relief and payment, as is appointed to be direct for payment of the forsaid moneths maintenance to the publike, by poinding and distreinʒing of the Shires, Burghs, and persons deficients for the same: And the Estates declares, that the particular summes above written, shall be al<g ref="char:EOLhyphen"/>lowed to the Burghs and Shires payers thereof, in payment of the forsaid monthes maintenance ordained to be uplifted from the whole Shires and Burghs of the Kingdome.</p>
+            <closer>
+               <signed>Alex. Gibsone Cler. Regist.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
